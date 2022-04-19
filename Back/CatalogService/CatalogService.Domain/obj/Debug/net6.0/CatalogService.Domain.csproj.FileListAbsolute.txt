@@ -1,0 +1,15 @@
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\bin\Debug\net6.0\CatalogService.Domain.deps.json
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\bin\Debug\net6.0\CatalogService.Domain.dll
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\bin\Debug\net6.0\CatalogService.Domain.pdb
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\obj\Debug\net6.0\CatalogService.Domain.csproj.AssemblyReference.cache
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\obj\Debug\net6.0\CatalogService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\obj\Debug\net6.0\CatalogService.Domain.AssemblyInfoInputs.cache
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\obj\Debug\net6.0\CatalogService.Domain.AssemblyInfo.cs
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\obj\Debug\net6.0\CatalogService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\obj\Debug\net6.0\CatalogService.Domain.dll
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\obj\Debug\net6.0\refint\CatalogService.Domain.dll
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\obj\Debug\net6.0\CatalogService.Domain.pdb
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\obj\Debug\net6.0\ref\CatalogService.Domain.dll
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\bin\Debug\net6.0\CatalogService.Common.dll
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\bin\Debug\net6.0\CatalogService.Common.pdb
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\CatalogService.Domain\obj\Debug\net6.0\CatalogService.Domain.csproj.CopyComplete

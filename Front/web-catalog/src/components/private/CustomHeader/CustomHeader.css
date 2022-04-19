@@ -1,0 +1,13 @@
+.navLogo {
+    width: 50px;
+    height: 50px;
+}
+
+.title {
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: normal normal bold 32px sans-serif;
+}

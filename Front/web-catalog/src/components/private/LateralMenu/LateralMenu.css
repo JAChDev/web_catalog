@@ -1,0 +1,27 @@
+.filterMenu{
+    display: flex;
+    position: fixed;
+    width: 20%;
+    background-color: rgb(51, 48, 48);
+    border-radius: 15px;
+}
+
+.label{
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px !important;
+    color: white;
+}
+
+.labelTitle{
+    text-align: center;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px !important;
+    color: white;
+}
+
+.btnContainer{
+    display: flex;
+    justify-content: center;
+}

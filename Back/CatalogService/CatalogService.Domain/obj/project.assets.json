@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CatalogService.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CatalogService.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CatalogService.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CatalogService.Common/1.0.0": {
+      "type": "project",
+      "path": "../Common/CatalogService.Common.csproj",
+      "msbuildProject": "../Common/CatalogService.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CatalogService.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jach2\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jach2\\Documents\\Prueba_Aranda_Jonatan_Amado\\Back\\CatalogService\\CatalogService.Domain\\CatalogService.Domain.csproj",
+      "projectName": "CatalogService.Domain",
+      "projectPath": "C:\\Users\\jach2\\Documents\\Prueba_Aranda_Jonatan_Amado\\Back\\CatalogService\\CatalogService.Domain\\CatalogService.Domain.csproj",
+      "packagesPath": "C:\\Users\\jach2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jach2\\Documents\\Prueba_Aranda_Jonatan_Amado\\Back\\CatalogService\\CatalogService.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jach2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\jach2\\Documents\\Prueba_Aranda_Jonatan_Amado\\Back\\CatalogService\\Common\\CatalogService.Common.csproj": {
+              "projectPath": "C:\\Users\\jach2\\Documents\\Prueba_Aranda_Jonatan_Amado\\Back\\CatalogService\\Common\\CatalogService.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

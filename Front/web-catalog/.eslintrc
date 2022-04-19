@@ -1,0 +1,40 @@
+{
+    "extends": [
+      "prettier"
+    ],
+    "plugins": [
+      "prettier"
+    ],
+    "rules": {
+      "no-param-reassign": 0,
+      "react/jsx-props-no-spreading": "off",
+      "react/react-in-jsx-scope": "off",
+      "react/jsx-filename-extension": [
+        1,
+        {
+          "extensions": [
+            ".js",
+            ".jsx"
+          ]
+        }
+      ],
+      "react/function-component-definition": [
+        2,
+        {
+          "namedComponents": "function-declaration"
+        }
+      ],
+      "react/prop-types": 0,
+      "no-underscore-dangle": 0
+    },
+    "globals": {
+      "window": true,
+      "document": true,
+      "localStorage": true,
+      "FormData": true,
+      "FileReader": true,
+      "Blob": true,
+      "navigator": true
+    },
+    "parser": "@babel/eslint-parser"
+  }

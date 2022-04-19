@@ -1,0 +1,12 @@
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\Common\bin\Debug\net6.0\CatalogService.Common.deps.json
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\Common\bin\Debug\net6.0\CatalogService.Common.dll
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\Common\bin\Debug\net6.0\CatalogService.Common.pdb
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\Common\obj\Debug\net6.0\CatalogService.Common.csproj.AssemblyReference.cache
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\Common\obj\Debug\net6.0\CatalogService.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\Common\obj\Debug\net6.0\CatalogService.Common.AssemblyInfoInputs.cache
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\Common\obj\Debug\net6.0\CatalogService.Common.AssemblyInfo.cs
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\Common\obj\Debug\net6.0\CatalogService.Common.csproj.CoreCompileInputs.cache
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\Common\obj\Debug\net6.0\CatalogService.Common.dll
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\Common\obj\Debug\net6.0\refint\CatalogService.Common.dll
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\Common\obj\Debug\net6.0\CatalogService.Common.pdb
+C:\Users\jach2\Documents\Prueba_Aranda\Back\CatalogService\Common\obj\Debug\net6.0\ref\CatalogService.Common.dll

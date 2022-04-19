@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E25GX4aovQYH+gMNd4FN9eP87zIYBh/MbNF7vLKjOw8=",
+  "Source": "CatalogService.WebApi",
+  "BasePath": "_content/CatalogService.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
